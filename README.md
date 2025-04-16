@@ -1,7 +1,6 @@
 - 👋 Hi, I’m shahad Al Harrasi
-- 👀 I’m interested Data science, AI and software development
+- 👀 I’m interested  AI and software development
 - 🌱 I’m currently studying Computer Science 
-- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me via email : alharrasishahad07@gmail.com
 
 <!---
